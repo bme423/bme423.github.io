@@ -1,0 +1,13 @@
+---
+title: "BME423 - Procesamiento de imágenes médicas"
+format: html
+tbl-colwidths: [5,10,30]
+---
+
+<!-- |  |  | \[📖\]⬛✍️ | -->
+
+::: column-screen-inset-right
+| Unidad | Tópico | Material |
+|:----------------------:|----------------|------------------------|
+| 1 | Introducción | [🖥️💻](/slides/lab-0.html "Lab slides"){aria-label="Lab 0 slides"} <br> 📖 <br> ✍️ |
+:::

@@ -1,0 +1,16 @@
+library/
+local/
+cellar/
+lock/
+python/
+staging/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+_site/
+*.key
+*speaker.html
+**/.DS_Store

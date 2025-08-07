@@ -1,0 +1,81 @@
+---
+title: "Syllabus"
+---
+
+<!-- [**Click here**](/documents/sta210-s22-syllabus.pdf "PDF of syllabus") **to download a PDF copy of the syllabus.** -->
+
+````{=html}
+<!--
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_KN97j30ST4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+``` -->
+````
+
+## Información de clases y ayudantías
+
+|         | Día       | Hora          | Lugar |
+|---------|-----------|---------------|-------|
+| Cátedra | Jueves    | 08:30 - 11:45 |       |
+| Lab     | Miércoles | 14:30 - 17:45 |       |
+
+## Fechas importantes
+
+-   **Agosto 8:** Inicio de clases
+
+## Objetivos
+
+Al finalizar el semestre, serás capaz de:
+
+-   git Comprender los conceptos fundamentales detrás de los principales modelos de redes neuronales.
+-   Resolver problemas de aprendizaje automático utilizando redes neuronales.
+-   Implementar y entrenar redes neuronales con herramientas de software populares como scikit-learn, PyTorch y Keras.
+-   Analizar e interpretar los resultados de modelos de redes neuronales.
+-   Comunicar los resultados de proyectos de aprendizaje automático tanto a audiencias técnicas como no técnicas.
+-   Aplicar buenas prácticas para la preparación de datos y la resolución de problemas en flujos de trabajo con redes neuronales.
+
+## Bibliografía
+
+Aunque existen muchos recursos excelentes producidos por diversos investigadores en las últimas décadas, asignaremos lecturas de los siguientes libros de texto.
+
+-   [Pattern Recognition and Machine Learning](https://link.springer.com/book/9780387310732), Christopher Bishop (2006).
+
+## Políticas del Curso
+
+### Integridad Académica
+
+Se espera que los estudiantes actúen con honestidad e integridad. No mentir, hacer trampa ni plagiar en trabajos académicos o no académicos. Todo trabajo presentado debe ser propio, a menos que se permita expresamente la colaboración. Cita adecuadamente todas las fuentes utilizadas, incluyendo código tomado de recursos en línea. El material no citado o mal referenciado puede considerarse plagio.
+
+### Uso de Herramientas de Inteligencia Artificial (IA)
+
+Dado que este curso se centra en la inteligencia artificial, el uso de herramientas y recursos de IA está permitido y se fomenta. Sin embargo, debes dejar en claro cuándo y cómo usaste herramientas o modelos de IA en tus tareas, proyectos o evaluaciones. Documenta adecuadamente cualquier contenido o código generado por IA, y especifica qué partes fueron producidas con su ayuda. Se espera total transparencia para mantener la integridad académica: no revelar el uso de IA puede considerarse una violación de las políticas del curso.
+
+### Colaboración
+
+Salvo que expresamente se indique trabajo en grupo, todas las tareas deben realizarse de forma individual. Se permite la discusión general con compañeros, pero no compartir respuestas detalladas ni código. Para proyectos en equipo, colabora únicamente dentro de tu grupo y no compartas soluciones detalladas o código con otros equipos.
+
+### Uso de Código y Recursos en Línea
+
+Puedes consultar y utilizar recursos en línea a menos que se indique lo contrario. Todo código o material tomado de fuentes externas debe ser citado correctamente. No se permite compartir código directamente con otros compañeros ni con otros equipos, salvo en asignaciones grupales designadas.
+
+### Entrega Tardía
+
+Las tareas pueden entregarse hasta 3 días tarde, con una penalización del 5% por cada período de 24 horas de retraso. Se podrá eliminar la calificación de una tarea y un laboratorio para acomodar circunstancias imprevistas. Las actividades de aplicación no aceptan entregas tardías. Las políticas específicas sobre entregas tardías para exámenes y proyectos se comunicarán por separado.
+
+Tienes derecho a un total de 6 "días de retraso" por semestre para entregar trabajos fuera del plazo sin penalización, pensados para situaciones significativas o imprevistas. Si tienes problemas a largo plazo que afecten tu desempeño, informa al profesor/a.
+
+### Solicitudes de Revisión de Calificaciones
+
+Las solicitudes de revisión deben hacerse dentro de la semana posterior a la devolución de la calificación. Solo se considerarán solicitudes por errores de calificación o cálculo. Toda la pregunta será revisada nuevamente, lo que puede implicar aumento o disminución de puntos. No se realizarán cambios de calificaciones después de la entrega final de proyectos o tareas.
+
+### Asistencia
+
+Los estudiantes son responsables de asistir a clase; se espera una asistencia regular. Si faltas, revisa las grabaciones y materiales antes de la siguiente sesión. Para laboratorios o trabajo en grupo, comunícate con tu equipo para asegurar que tus responsabilidades queden cubiertas. Si prevés una ausencia, avisa a tu equipo para coordinar las contribuciones correspondientes.
+
+````{=html}
+<!-- 
+```{=html}
+``` 
+*Note:* If you've read this far in the syllabus, email me a picture of your pet if you have one or your favourite meme!
+-->
+````
