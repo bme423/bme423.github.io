@@ -7,7 +7,7 @@ tbl-colwidths: [5,10,30]
 <!-- |  |  | \[📖\]⬛✍️ | -->
 
 ::: column-screen-inset-right
-| Unidad | Tópico | Material |
-|:----------------------:|----------------|------------------------|
-| 1 | Introducción | [🖥️💻](/slides/lab-0.html "Lab slides"){aria-label="Lab 0 slides"} <br> 📖 <br> ✍️ |
+| Unidad | Tópico | Enlaces |
+|:-------------------------:|------------------|---------------------------|
+| 1 | Introducción | [💻](/slides-improc/bme423_00_intro.pdf "slides"){aria-label="slides"} <br> 📖 <br> ✍️ |
 :::

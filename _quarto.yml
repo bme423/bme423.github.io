@@ -1,14 +1,14 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: .
 
 website:
   page-navigation: true
-  title: "INF395"
-  description: "INF395 - Redes Neuronales y Deep Learning."
-  site-url: "https://inf395.github.io/website/"
+  title: "BME423"
+  description: "BME423 - Procesamiento de imágenes médicas"
+  site-url: "https://bme423.github.io/"
 
-  # repo-url: https://github.com/sta210-s22/website
+  # repo-url: https://github.com/bme423/website
   # repo-actions: [edit, issue]
 
   open-graph: true
