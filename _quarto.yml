@@ -5,10 +5,10 @@ project:
 website:
   page-navigation: true
   title: "BME423"
-  description: "BME423 - Procesamiento de imágenes médicas"
-  site-url: "https://bme423.github.io/"
+  description: "Procesamiento de imágenes médicas"
+  site-url: "https://inf395.github.io/website/"
 
-  # repo-url: https://github.com/bme423/website
+  # repo-url: https://github.com/sta210-s22/website
   # repo-actions: [edit, issue]
 
   open-graph: true
@@ -56,8 +56,8 @@ website:
         text: Evaluaciones
       - href: course-team.qmd
         text: Equipo docente
-      - href: course-links.qmd
-        text: Useful links
+      # - href: course-links.qmd
+      #   text: Useful links
       # - section: "Computing"
       #   contents:
       #     - href: computing-access.qmd

@@ -2,8 +2,10 @@
 title: "Equipo docente"
 ---
 
-Prof. Dr. Alejandro Veloz - [alejandro.veloz\@uv.cl](mailto:alejandro.veloz@usm.cl)
+#### **Profesor:** Dr. Alejandro Veloz - [alejandro.veloz\@usm.cl](mailto:alejandro.veloz@usm.cl)
 
-\*\*Horario de atención:\*\*
+-   **Horario de atención:** Viernes 13:00 (solicitud vía correo)
 
-\*\*Link de zoom:\*\*
+#### **Ayudante:**
+
+-   **Horario de atención:**
