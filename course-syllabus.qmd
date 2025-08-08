@@ -12,11 +12,12 @@ title: "Syllabus"
 ``` -->
 ````
 
-## Información de clases y ayudantías
+## Clases y laboratorios
 
 |         | Día     | Hora          | Lugar |
 |---------|---------|---------------|-------|
-| Cátedra | Viernes | 14:40 - 17:15 | P407  |
+| Cátedra | Jueves | 08:30 - 11:45 | P407  |
+| Lab | Miércoles | 14:30 - 17:45 | P407  |
 
 ## Fechas importantes
 
