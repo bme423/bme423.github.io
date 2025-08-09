@@ -1,5 +1,5 @@
 ---
-title: "Redes neuronales y Deep Learning"
+title: "Procesamiento de imágenes médicas"
 tbl-colwidths: [5,20,10,10,10]
 ---
 

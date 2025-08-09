@@ -18,12 +18,11 @@ website:
   #   image: "images/twitter-card.png"
 
   page-footer:
-    # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2025, Alejandro Veloz"
-    background: "#D9E3E4"
+    background: "#c0b14a"
 
   sidebar:
-    background: "#D9E3E4"
+    background: "#c0b14a"
     logo: "images/logo.png"
     pinned: true
     align: center
