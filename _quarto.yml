@@ -6,7 +6,7 @@ website:
   page-navigation: true
   title: "BME423"
   description: "Procesamiento de imágenes médicas"
-  site-url: "https://inf395.github.io/website/"
+  site-url: "https://bme423.github.io/"
 
   # repo-url: https://github.com/sta210-s22/website
   # repo-actions: [edit, issue]
