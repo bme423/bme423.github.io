@@ -1,11 +1,5 @@
-# Sitio para INF395
+🔗 https://bme423.github.io/
 
-🔗 https://inf395.github.io/website/
-
-## Colors
-
-- website background: #D9E3E4
-- headings: #5B888C
 
 <hr> 
 
